@@ -64,8 +64,8 @@ The project consists of the following microservices:
 | Parking Service      | 8083 |
 | Booking Service      | 8084 |
 | Payment Service      | 8085 |
-| Notification Service | 8086 |
-| Email Service        | 8087 |
+| Email Service        | 8086 |
+| Notification Service | 8087 |
 
 ---
 
