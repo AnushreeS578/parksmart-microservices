@@ -117,7 +117,7 @@ notification
 parking
 password_reset_otp
 payment
-user
+user  
 ```
 
 ---
