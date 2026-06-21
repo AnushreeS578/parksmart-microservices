@@ -112,13 +112,12 @@ The project consists of the following microservices:
 Each microservice uses its own database.
 
 ```sql
-parksmart_auth
-parksmart_user
-parksmart_parking
-parksmart_booking
-parksmart_payment
-parksmart_notification
-parksmart_email
+booking
+notification
+parking
+password_reset_otp
+payment
+user
 ```
 
 ---
